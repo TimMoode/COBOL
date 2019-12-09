@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "CBLTAM01", "CBLTAM01.cblproj", "{A9C1F993-90A1-4915-8230-37753ED0CD74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C1F993-90A1-4915-8230-37753ED0CD74}.Debug|x86.ActiveCfg = Debug|x86
+		{A9C1F993-90A1-4915-8230-37753ED0CD74}.Debug|x86.Build.0 = Debug|x86
+		{A9C1F993-90A1-4915-8230-37753ED0CD74}.Release|x86.ActiveCfg = Release|x86
+		{A9C1F993-90A1-4915-8230-37753ED0CD74}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F6BEDD8-9797-456B-9BD2-C220C16BA662}
+	EndGlobalSection
+EndGlobal
